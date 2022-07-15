@@ -10,7 +10,9 @@
 <p>
 
   Consultor na empresa 
-  <a href="https://lyncas.net/">lyncas</a> <br/>
+  <a href="https://lyncas.net/">lyncas
+    ![alt text](https://media.glassdoor.com/sql/5476204/lyncas-squareLogo-1641467004039.png) </a> <br/>
+  
 
 Eu sou desenvolvedor ABAP.
 
