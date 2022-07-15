@@ -16,7 +16,7 @@ Eu sou desenvolvedor ABAP.
 
 </p>
 
-![alt text](https://hackr.io/tutorials/learn-sap-abap/logo/logo-sap-abap?ver=1557508340)
+![alt text](https://clipground.com/images/sap-hana-clipart-4.jpg)
 
 <hr>
 
