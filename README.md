@@ -16,7 +16,7 @@ Eu sou desenvolvedor ABAP.
 
 </p>
 
-![alt text](https://clipground.com/images/sap-hana-clipart-4.jpg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/80px-SAP_2011_logo.svg.png)
 
 <hr>
 
