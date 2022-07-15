@@ -2,8 +2,7 @@
 
 ### Olá, meu nome é Alex
 
-<a href="https://www.instagram.com/alexsacht/"
-img src="https://img.shields.io/static/v1?label=Overview&message=AlexSacht&color=f8efd4&style=for-the-badge&logo=GitHub">
+<a href="https://www.instagram.com/alexsacht/" img src="https://img.shields.io/static/v1?label=Overview&message=AlexSacht&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
 
