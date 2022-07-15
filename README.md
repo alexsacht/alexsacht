@@ -2,7 +2,7 @@
 
 ### Olá, meu nome é Alex
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=AlexSacht&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
 
