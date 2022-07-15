@@ -9,7 +9,7 @@
 <p>
 
   Consultor na empresa 
-  <a href="[https://www.instagram.com/alexsacht/](https://lyncas.net/)">lyncas</a> <br/>
+  <a href="https://lyncas.net/">lyncas</a> <br/>
 
 Eu sou desenvolvedor ABAP.
 
