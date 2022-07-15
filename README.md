@@ -8,15 +8,17 @@
   </a>
 </div>
 <p>
-
   Consultor na empresa 
+</p>
+<p>
   <a href="https://lyncas.net/">lyncas
     ![alt text](https://media.glassdoor.com/sql/5476204/lyncas-squareLogo-1641467004039.png) </a> <br/>
+</p>
   
 
-Eu sou desenvolvedor ABAP.
+Desenvolvedor ABAP.
 
-</p>
+
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/80px-SAP_2011_logo.svg.png)
 
