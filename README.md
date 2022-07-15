@@ -9,10 +9,8 @@
 </div>
 <p>
   Consultor na empresa 
-</p>
-<p>
   <a href="https://lyncas.net/">lyncas
-    ![alt text](https://media.glassdoor.com/sql/5476204/lyncas-squareLogo-1641467004039.png) </a> <br/>
+  ![alt text](https://media.glassdoor.com/sql/5476204/lyncas-squareLogo-1641467004039.png) </a> <br/>
 </p>
   
 
